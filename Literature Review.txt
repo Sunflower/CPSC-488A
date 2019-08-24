@@ -2,6 +2,7 @@
 - Jang et al., 2016: https://www.aclweb.org/anthology/P16-1021
 - Shutova 2010: https://dl.acm.org/citation.cfm?id=1858752
 - Tsvetkov et al., 2014 https://www.aclweb.org/anthology/P14-1024
+- Mu et al., 2019: https://arxiv.org/pdf/1904.02246.pdf
 - Metaphor annotation:
     - MIP: https://www.tandfonline.com/doi/pdf/10.1080/10926480709336752?needAccess=true
     - https://www.cs.ubc.ca/~hyejuj/thesis.pdf (Appendix A)
