@@ -19,7 +19,6 @@ with open('words.csv', 'w') as words_f, open ('sentences.csv', 'w') as sentences
     open('paragraphs.csv', 'w') as paragraphs_f, open('texts.csv', 'w') as texts_f:
     words_writer = csv.writer(words_f)
     sentences_writer = csv.writer(sentences_f)
-    paragraphs_writer = csv.writer(paragraphs_f)
     texts_writer = csv.writer(texts_f)
 
     # Write headers.
